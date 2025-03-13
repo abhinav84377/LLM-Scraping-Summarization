@@ -37,4 +37,4 @@ def display_summary(url):
     return summary
 
 
-print(display_summary("https://edwarddonner.com"))
+print(display_summary("https://cnn.com"))
